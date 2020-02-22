@@ -15,4 +15,4 @@
 - [ ] Change the background color of the multiple choice answers when clicked to indicate whether the question was answered correctly
 - [ ] Further customize and style the card
 - [ ] Add a button that will toggle hiding and showing the answer choices
-https://github.com/lopez7468/flash_card/blob/master/flashcard.gif
+<img src="flashcard.gif" width=200><br>
