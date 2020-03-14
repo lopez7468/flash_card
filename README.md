@@ -64,4 +64,4 @@
 
 
 
-<img src="flashcard.gif" width=200><br>
+<img src="flashcard.gif" width=200><br> 
